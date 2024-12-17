@@ -11,10 +11,12 @@
   },
   "dependencies": {
     "build": "^0.1.4",
+    "prop-types": "^15.8.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^7.0.1",
-    "styled-components": "^6.1.13"
+    "styled-components": "^6.1.13",
+    "vite-plugin-svgr": "^4.3.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.15.0",
